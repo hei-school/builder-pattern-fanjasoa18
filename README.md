@@ -13,7 +13,7 @@ It includes the construction of different types of cars:
 To install this project:
 ```shell
 # Clone this repository in your local machine :
-git clone https://github.com/fanjasoa18/Builder-Pattern.git
+git clone https://github.com/hei-school/builder-pattern-fanjasoa18.git
 ```
 
 ## Running the program:
